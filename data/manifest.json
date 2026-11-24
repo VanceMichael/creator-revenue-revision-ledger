@@ -1,0 +1,102 @@
+{
+  "rights": {
+    "fields": [
+      "id",
+      "work",
+      "pool",
+      "party",
+      "start",
+      "end",
+      "seen",
+      "share_bp"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "aliases": {
+    "fields": [
+      "handle",
+      "party",
+      "start",
+      "end"
+    ],
+    "key": [
+      "handle",
+      "start"
+    ]
+  },
+  "transactions": {
+    "fields": [
+      "id",
+      "work",
+      "pool",
+      "service",
+      "currency",
+      "cents",
+      "reversal",
+      "seen"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "rates": {
+    "fields": [
+      "day",
+      "currency",
+      "cny_micros"
+    ],
+    "key": [
+      "day",
+      "currency"
+    ]
+  },
+  "settlements": {
+    "fields": [
+      "id",
+      "transaction",
+      "currency",
+      "net_cents",
+      "fee_cents",
+      "rate_micros",
+      "paid"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "bonus": {
+    "fields": [
+      "pool",
+      "threshold_cny_cents",
+      "marginal_bp"
+    ],
+    "key": [
+      "pool",
+      "threshold_cny_cents"
+    ]
+  },
+  "statements": {
+    "fields": [
+      "id",
+      "quarter",
+      "party",
+      "status",
+      "accepted",
+      "paid_cny_cents"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "metric_policy": {
+    "fields": [
+      "id",
+      "min_earned_cents"
+    ],
+    "key": [
+      "id"
+    ]
+  }
+}

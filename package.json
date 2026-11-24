@@ -1,0 +1,13 @@
+{
+  "name": "creator-revenue-revision-ledger",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": "22.23.4"
+  },
+  "scripts": {
+    "inspect": "node scripts/inspect.mjs",
+    "test": "node --test"
+  }
+}

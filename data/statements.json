@@ -1,0 +1,26 @@
+[
+  {
+    "id": "j1",
+    "quarter": "2026-Q2",
+    "party": "p1",
+    "status": "confirmed",
+    "accepted": "2026-07-05",
+    "paid_cny_cents": 395000
+  },
+  {
+    "id": "j2",
+    "quarter": "2026-Q2",
+    "party": "s1",
+    "status": "confirmed",
+    "accepted": "2026-07-06",
+    "paid_cny_cents": 175800
+  },
+  {
+    "id": "j3",
+    "quarter": "2026-Q2",
+    "party": "s1",
+    "status": "correction-confirmed",
+    "accepted": "2026-07-20",
+    "paid_cny_cents": 0
+  }
+]

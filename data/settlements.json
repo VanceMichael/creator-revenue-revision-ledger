@@ -1,0 +1,74 @@
+[
+  {
+    "id": "payout0",
+    "transaction": "t0a",
+    "currency": "USD",
+    "net_cents": 22550,
+    "fee_cents": 450,
+    "rate_micros": 7020000,
+    "paid": "2025-12-22"
+  },
+  {
+    "id": "payout1",
+    "transaction": "t1a",
+    "currency": "USD",
+    "net_cents": 25550,
+    "fee_cents": 450,
+    "rate_micros": 7060000,
+    "paid": "2026-01-15"
+  },
+  {
+    "id": "payout2",
+    "transaction": "t2a",
+    "currency": "USD",
+    "net_cents": 28550,
+    "fee_cents": 450,
+    "rate_micros": 7100000,
+    "paid": "2026-02-16"
+  },
+  {
+    "id": "payout3",
+    "transaction": "t3a",
+    "currency": "USD",
+    "net_cents": 31550,
+    "fee_cents": 450,
+    "rate_micros": 7140000,
+    "paid": "2026-03-10"
+  },
+  {
+    "id": "payout4",
+    "transaction": "t4a",
+    "currency": "USD",
+    "net_cents": 34550,
+    "fee_cents": 450,
+    "rate_micros": 7180000,
+    "paid": "2026-04-09"
+  },
+  {
+    "id": "payout5",
+    "transaction": "t5a",
+    "currency": "USD",
+    "net_cents": 37550,
+    "fee_cents": 450,
+    "rate_micros": 7220000,
+    "paid": "2026-05-11"
+  },
+  {
+    "id": "payout6",
+    "transaction": "t6a",
+    "currency": "USD",
+    "net_cents": 40550,
+    "fee_cents": 450,
+    "rate_micros": 7260000,
+    "paid": "2026-06-12"
+  },
+  {
+    "id": "payout7",
+    "transaction": "t7a",
+    "currency": "USD",
+    "net_cents": 43550,
+    "fee_cents": 450,
+    "rate_micros": 7300000,
+    "paid": "2026-07-08"
+  }
+]

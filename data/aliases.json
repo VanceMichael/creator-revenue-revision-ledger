@@ -1,0 +1,26 @@
+[
+  {
+    "handle": "maple",
+    "party": "p1",
+    "start": "2025-10-01",
+    "end": "2026-04-01"
+  },
+  {
+    "handle": "maple-new",
+    "party": "p1",
+    "start": "2026-04-01",
+    "end": "2027-01-01"
+  },
+  {
+    "handle": "studio",
+    "party": "s1",
+    "start": "2025-10-01",
+    "end": "2026-07-01"
+  },
+  {
+    "handle": "studio",
+    "party": "s2",
+    "start": "2026-07-01",
+    "end": "2027-01-01"
+  }
+]

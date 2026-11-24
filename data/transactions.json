@@ -1,0 +1,182 @@
+[
+  {
+    "id": "t0a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2025-12-22",
+    "currency": "USD",
+    "cents": 23000,
+    "reversal": null,
+    "seen": "2025-12-22"
+  },
+  {
+    "id": "t0b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2025-12-22",
+    "currency": "CNY",
+    "cents": 37800,
+    "reversal": null,
+    "seen": "2025-12-22"
+  },
+  {
+    "id": "t1a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-01-15",
+    "currency": "USD",
+    "cents": 26000,
+    "reversal": null,
+    "seen": "2026-01-15"
+  },
+  {
+    "id": "t1b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2026-01-15",
+    "currency": "CNY",
+    "cents": 41900,
+    "reversal": null,
+    "seen": "2026-01-15"
+  },
+  {
+    "id": "t2a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-02-16",
+    "currency": "USD",
+    "cents": 29000,
+    "reversal": null,
+    "seen": "2026-02-16"
+  },
+  {
+    "id": "t2b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2026-02-16",
+    "currency": "CNY",
+    "cents": 46000,
+    "reversal": null,
+    "seen": "2026-02-16"
+  },
+  {
+    "id": "t3a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-03-10",
+    "currency": "USD",
+    "cents": 32000,
+    "reversal": null,
+    "seen": "2026-03-10"
+  },
+  {
+    "id": "t3b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2026-03-10",
+    "currency": "CNY",
+    "cents": 50100,
+    "reversal": null,
+    "seen": "2026-03-10"
+  },
+  {
+    "id": "t4a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-04-09",
+    "currency": "USD",
+    "cents": 35000,
+    "reversal": null,
+    "seen": "2026-04-09"
+  },
+  {
+    "id": "t4b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2026-04-09",
+    "currency": "CNY",
+    "cents": 54200,
+    "reversal": null,
+    "seen": "2026-04-09"
+  },
+  {
+    "id": "t5a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-05-11",
+    "currency": "USD",
+    "cents": 38000,
+    "reversal": null,
+    "seen": "2026-05-11"
+  },
+  {
+    "id": "t5b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2026-05-11",
+    "currency": "CNY",
+    "cents": 58300,
+    "reversal": null,
+    "seen": "2026-05-11"
+  },
+  {
+    "id": "t6a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-06-12",
+    "currency": "USD",
+    "cents": 41000,
+    "reversal": null,
+    "seen": "2026-06-12"
+  },
+  {
+    "id": "t6b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2026-06-12",
+    "currency": "CNY",
+    "cents": 62400,
+    "reversal": null,
+    "seen": "2026-06-12"
+  },
+  {
+    "id": "t7a",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-07-08",
+    "currency": "USD",
+    "cents": 44000,
+    "reversal": null,
+    "seen": "2026-07-08"
+  },
+  {
+    "id": "t7b",
+    "work": "work-2",
+    "pool": "direct",
+    "service": "2026-07-08",
+    "currency": "CNY",
+    "cents": 66500,
+    "reversal": null,
+    "seen": "2026-07-08"
+  },
+  {
+    "id": "t8r",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-07-17",
+    "currency": "USD",
+    "cents": -7200,
+    "reversal": "t4a",
+    "seen": "2026-07-17"
+  },
+  {
+    "id": "t9r",
+    "work": "work-1",
+    "pool": "direct",
+    "service": "2026-07-19",
+    "currency": "USD",
+    "cents": -60000,
+    "reversal": "t4a",
+    "seen": "2026-07-19"
+  }
+]

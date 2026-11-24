@@ -1,0 +1,17 @@
+[
+  {
+    "pool": "direct",
+    "threshold_cny_cents": 0,
+    "marginal_bp": 200
+  },
+  {
+    "pool": "direct",
+    "threshold_cny_cents": 190000,
+    "marginal_bp": 550
+  },
+  {
+    "pool": "direct",
+    "threshold_cny_cents": 310000,
+    "marginal_bp": 750
+  }
+]

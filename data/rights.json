@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a1",
+    "work": "work-1",
+    "pool": "direct",
+    "party": "p1",
+    "start": "2025-10-01",
+    "end": "2026-07-01",
+    "seen": "2025-09-22",
+    "share_bp": 7000
+  },
+  {
+    "id": "a2",
+    "work": "work-1",
+    "pool": "direct",
+    "party": "s1",
+    "start": "2025-10-01",
+    "end": "2026-07-01",
+    "seen": "2025-09-22",
+    "share_bp": 3000
+  },
+  {
+    "id": "a3",
+    "work": "work-1",
+    "pool": "direct",
+    "party": "s2",
+    "start": "2026-07-01",
+    "end": "2027-01-01",
+    "seen": "2026-06-20",
+    "share_bp": 10000
+  },
+  {
+    "id": "a4",
+    "work": "work-1",
+    "pool": "direct",
+    "party": "p1",
+    "start": "2026-03-01",
+    "end": "2026-07-01",
+    "seen": "2026-07-18",
+    "share_bp": 5500
+  },
+  {
+    "id": "a5",
+    "work": "work-1",
+    "pool": "direct",
+    "party": "s1",
+    "start": "2026-03-01",
+    "end": "2026-07-01",
+    "seen": "2026-07-18",
+    "share_bp": 4500
+  },
+  {
+    "id": "a6",
+    "work": "work-2",
+    "pool": "direct",
+    "party": "p1",
+    "start": "2025-10-01",
+    "end": "2027-01-01",
+    "seen": "2025-09-22",
+    "share_bp": 10000
+  }
+]
