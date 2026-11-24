@@ -10,5 +10,5 @@
 - `rates.json`　服务日汇率以每单位外币的人民币百万分之一表示，人民币恒为 1000000。
 - `settlements.json`　渠道批次净转账、费用、汇率和到账日。
 - `bonus.json`　direct 按同一主体的人民币拆分金额按季度合并，阶梯为边际奖励。
-- `statements.json`　旧账确认及已实际付给创作者的金额。correction-confirmed 为仅签字的调整回执。
+- `statements.json`　旧账确认、开单额及已实际付给创作者的金额。correction-confirmed 为仅签字的调整回执，billed_cny_cents 为该次调整额。
 - `metric_policy.json`　创作者留存的有效经营门槛。

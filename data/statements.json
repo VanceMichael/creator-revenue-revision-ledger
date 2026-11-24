@@ -5,6 +5,7 @@
     "party": "p1",
     "status": "confirmed",
     "accepted": "2026-07-05",
+    "billed_cny_cents": 397000,
     "paid_cny_cents": 395000
   },
   {
@@ -13,6 +14,7 @@
     "party": "s1",
     "status": "confirmed",
     "accepted": "2026-07-06",
+    "billed_cny_cents": 177500,
     "paid_cny_cents": 175800
   },
   {
@@ -21,6 +23,7 @@
     "party": "s1",
     "status": "correction-confirmed",
     "accepted": "2026-07-20",
+    "billed_cny_cents": 4100,
     "paid_cny_cents": 0
   }
 ]

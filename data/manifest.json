@@ -84,6 +84,7 @@
       "party",
       "status",
       "accepted",
+      "billed_cny_cents",
       "paid_cny_cents"
     ],
     "key": [
